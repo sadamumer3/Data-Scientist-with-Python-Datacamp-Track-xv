@@ -15,10 +15,10 @@
 11. [Working with Categorical Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/22430f853a9ed2075ae4e1447b1e5a83eea7ef81)
 12. [Data Communication Concepts](https://www.datacamp.com/completed/statement-of-accomplishment/course/07dc12838b1c006910f5939beee69be9768dadd1)
 13. [Introduction to Importing Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/6161c5e3486edfadc62461def8a260f5c25f5e36)
+14. [Cleaning Data in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/ffb7009fec426cc15962c2491cf5c51314de70be)
 
-- _Above courses are all completed till now (April 12, 2024), Below are the remaining ones_
+- _Above courses are all completed till now (May 04, 2024), Below are the remaining ones_
 
-14. Cleaning Data in Python
 15. Working with Dates and Times in Python
 16. Writing Functions in Python
 17. Introduction to Regression with statsmodels in Python
